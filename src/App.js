@@ -47,7 +47,7 @@ function App() {
 
   return (
 
-    <div className="bg-gradient-to-br from-gray-700 to-purple-400 h-screen sm:py-5">
+    <div className="bg-gradient-to-br from-gray-700 to-purple-400 h-full sm:py-5">
 
       <div
         className={`mx-auto max-w-screen-md py-5 px-2 sm:px-24
